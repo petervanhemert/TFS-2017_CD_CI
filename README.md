@@ -68,7 +68,9 @@ Once you have a local repo, select items in the status bar to quickly navigate b
   <img src="/MD_Images/Demo2_1.PNG" width="600"/> 
 </p>
 
+#### Publish your code to Team Services
 
+In the Push view in Team Explorer, select the Publish Git Repo button under Push to Visual Studio Team Services.
 <p align="center">
   <img src="/MD_Images/Demo2_2.PNG" width="600"/> 
 </p>
