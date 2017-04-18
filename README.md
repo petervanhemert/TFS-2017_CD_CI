@@ -97,7 +97,7 @@ Your code is now in a Team Services repo. You can view your code on the web by s
 2. On the Changes view in Team Explorer, add a message describing your update and commit your changes.
 
 <p align="center">
-  <img src="/MD_Images/Demo2_5.PNG" width="600"/> 
+  <img src="/MD_Images/Demo2_5.png" width="600"/> 
 </p>
 
 3. Select the unpublished changes status bar icon ( <img src="/MD_Images/unpublished_changes.png"> ) or the Sync view in Team Explorer. Select Push to update your code in Team Services/TFS.
