@@ -75,6 +75,10 @@ In the Push view in Team Explorer, select the Publish Git Repo button under Push
   <img src="/MD_Images/Demo2_2.PNG" width="600"/> 
 </p>
 
+Verify your email and select your account in the Team Services Domain drop down.
+
+Enter your repository name and select Publish Repository. 
+
 <p align="center">
   <img src="/MD_Images/Demo2_3.PNG" width="600"/> 
 </p>
