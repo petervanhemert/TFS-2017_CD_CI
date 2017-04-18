@@ -64,6 +64,11 @@ Once you have a local repo, select items in the status bar to quickly navigate b
 
 #### Create a local Git repo for your project from an empty folder starting a new project.
 
+<p align="center">
+  <img src="/MD_Images/Capture%201.PNG" width="600"/> 
+</p>
+
+
 ## Create new Git repo.
 
 ### Setup TFS
