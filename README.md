@@ -1,10 +1,10 @@
 # TFS-2017_CD_CI
 TFS straat
 - [Setup TFS 2017](#setup-tfs)
- - [Project Directory](#project-directory)
- - [Nuget Package Manager](#nuget-package-manager)
- - [Connectionstring to DB](#connectionstring-to-db)
- - [Configure IdentityServer and the stores](#configure-identityserver-and-the-stores)
+   - [Project Directory](#project-directory)
+   - [Nuget Package Manager](#nuget-package-manager)
+   - [Connectionstring to DB](#connectionstring-to-db)
+   - [Configure IdentityServer and the stores](#configure-identityserver-and-the-stores)
    - [Startup](#startup)
   
 - [Creating an MVC client](#creating-an-mvc-client)
