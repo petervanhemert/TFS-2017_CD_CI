@@ -1,18 +1,32 @@
 # TFS-2017_CD_CI
 TFS straat
 - [Setup TFS 2017](#setup-tfs)
-   - [Project Directory](#project-directory)
-   - [Nuget Package Manager](#nuget-package-manager)
-   - [Connectionstring to DB](#connectionstring-to-db)
-   - [Configure IdentityServer and the stores](#configure-identityserver-and-the-stores)
-   - [Startup](#startup)
+   - [Create account](#project-directory)
+   - [Create team project](#nuget-package-manager)
   
+- [Setup Azure](#setup-azure)
+   - [Create account](#project-directory)
+   - [Create team project](#nuget-package-manager)
+  
+- [Setup Visual Studio 2017](#setup-visual-studio)
+   - [Create account](#project-directory)
+   - [Create team project](#nuget-package-manager)
+
 - [Creating an MVC client](#creating-an-mvc-client)
  - [Configuring the stores](#configuring-the-stores)
  - [ConfigurationStore](#configurationstore)
  - [OperationalStore](#operationalstore)
 
 ## Setup TFS
+
+## Setup Azure
+
+## Setup Visual Studio
+
+## Setup TFS
+
+
+
  [*Based on this repository.*](https://github.com/petervanhemert/ASP.NET-CORE-1.1-Development-with-SSL/blob/master/README.md)
  
 ###Project Directory
