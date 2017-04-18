@@ -39,7 +39,7 @@ Tools > Extensions and Updates > (search for "Continuous Delivery Tools for Visu
 
 Create a local Git repo for your project
 
-Create a new local Git repo for your project by selecting <img src="/MD_Images/addsrccontrol.PNG" width="50"/>  Add to Source Control on the status bar in the lower right hand corner of Visual Studio. This will create a new repo in the folder the solution is in and commit your code into that repo.
+Create a new local Git repo for your project by selecting <img src="/MD_Images/addsrccontrol.png" width="100"/>  Add to Source Control on the status bar in the lower right hand corner of Visual Studio. This will create a new repo in the folder the solution is in and commit your code into that repo.
 
 Once you have a local repo, select items in the status bar to quickly navigate between Git tasks in Team Explorer.
 
