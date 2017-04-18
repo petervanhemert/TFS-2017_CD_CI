@@ -33,16 +33,16 @@ Tools > Extensions and Updates > (search for "Continuous Delivery Tools for Visu
   <img src="/MD_Images/Capture%201.PNG" width="600"/> 
 </p>
 
-# Share your code with Visual Studio 2017 and Team Services Git
+## Share your code with Visual Studio 2017 and Team Services Git
 
-## Create local Git repo.
-
-
+### Create local Git repo.
 
 
-## Create new Git repo.
 
-## Setup TFS
+
+### Create new Git repo.
+
+### Setup TFS
 
 
 
