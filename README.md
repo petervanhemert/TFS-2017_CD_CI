@@ -9,6 +9,7 @@ TFS straat
    - [Create team project](#nuget-package-manager)
   
 - [Setup Visual Studio 2017](#setup-visual-studio)
+   - [Add extensions](#add-extensions)
    - [Create account](#project-directory)
    - [Create team project](#nuget-package-manager)
 
@@ -23,7 +24,7 @@ TFS straat
 
 ## Setup Visual Studio
 
-Add extension.
+## Add extensions.
 Tools > Extensions and Updates > (search for "Continuous Delivery Tools for Visual Studio")
 
 <p align="center">
