@@ -1,6 +1,6 @@
 # TFS-2017_CD_CI
 TFS straat
-- [Setup TFS 2017](#setup-TFS)
+- [Setup TFS 2017](#setup-tfs)
  - [Project Directory](#project-directory)
  - [Nuget Package Manager](#nuget-package-manager)
  - [Connectionstring to DB](#connectionstring-to-db)
@@ -12,7 +12,7 @@ TFS straat
  - [ConfigurationStore](#configurationstore)
  - [OperationalStore](#operationalstore)
 
-##Setup TFS
+## Setup TFS
  [*Based on this repository.*](https://github.com/petervanhemert/ASP.NET-CORE-1.1-Development-with-SSL/blob/master/README.md)
  
 ###Project Directory
