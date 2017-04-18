@@ -35,6 +35,10 @@ Tools > Extensions and Updates > (search for "Continuous Delivery Tools for Visu
 
 ## Share your code with Visual Studio 2017 and Team Services Git
 
+- Create repo from an empty folder.
+- Create repo from existing code on your computer.
+- Clone an existing repo.
+
 ### Create local Git repo.
 
 Create a local Git repo for your project from an empty folder or a folder containing existing code on your computer.
