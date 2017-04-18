@@ -28,11 +28,11 @@ TFS straat
 ## Add extensions.
 Tools > Extensions and Updates > (search for "Continuous Delivery Tools for Visual Studio")
 
-## Create new Git repo
-
 <p align="center">
   <img src="/MD_Images/Capture%201.PNG" width="600"/> 
 </p>
+
+## Create new Git repo.
 
 ## Setup TFS
 
