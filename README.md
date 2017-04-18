@@ -26,7 +26,7 @@ TFS straat
 
 ## Setup Visual Studio
 
-## Add extensions.
+### Add extensions.
 Tools > Extensions and Updates > (search for "Continuous Delivery Tools for Visual Studio")
 
 <p align="center">
