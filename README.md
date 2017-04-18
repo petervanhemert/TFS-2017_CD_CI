@@ -83,6 +83,12 @@ Enter your repository name and select Publish Repository.
   <img src="/MD_Images/Demo2_3.PNG" width="600"/> 
 </p>
 
+This creates a new Team Project in your account with the same name as the repository. To create the repo in an existing Team Project, click Advanced next to Repository name and select a team project.
+
+<p align="center">
+  <img src="/MD_Images/Demo2_4.PNG" width="600"/> 
+</p>
+
 ## Create new Git repo.
 
 
