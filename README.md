@@ -49,7 +49,7 @@ Once you have a local repo, select items in the status bar to quickly navigate b
 
 
 <p align="center">
-    <img src="/MD_Images/unpublished_changes.png"> shows the number of unpublished commits in your local branch. Selecting this will open the Sync view in Team Explorer.
+    - <img src="/MD_Images/unpublished_changes.png"> shows the number of unpublished commits in your local branch. Selecting this will open the Sync view in Team Explorer.
 </p>  
   
     <img src="/MD_Images/pending_changes.png" width="150"/> shows the number of uncommitted file changes. Selecting this will open the Changes view in Team Explorer.
