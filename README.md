@@ -69,7 +69,39 @@ Once you have a local repo, select items in the status bar to quickly navigate b
 </p>
 
 
+<p align="center">
+  <img src="/MD_Images/Demo2_2.PNG" width="600"/> 
+</p>
+
+<p align="center">
+  <img src="/MD_Images/Demo2_3.PNG" width="600"/> 
+</p>
+
 ## Create new Git repo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Setup TFS
 
