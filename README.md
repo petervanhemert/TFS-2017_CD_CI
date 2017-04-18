@@ -88,6 +88,10 @@ This creates a new Team Project in your account with the same name as the reposi
 <p align="center">
   <img src="/MD_Images/Demo2_4.PNG" width="600"/> 
 </p>
+Your code is now in a Team Services repo. You can view your code on the web by selecting See it on the web.
+
+
+
 
 ## Create new Git repo.
 
