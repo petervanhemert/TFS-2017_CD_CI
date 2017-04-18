@@ -10,6 +10,7 @@ TFS straat
   
 - [Setup Visual Studio 2017](#setup-visual-studio)
    - [Add extensions](#add-extensions)
+   - [Create local Git repo](#create-local-git-repo)
    - [Create new Git repo](#create-new-git-repo)
    - [Create account](#project-directory)
    - [Create team project](#nuget-package-manager)
@@ -31,6 +32,13 @@ Tools > Extensions and Updates > (search for "Continuous Delivery Tools for Visu
 <p align="center">
   <img src="/MD_Images/Capture%201.PNG" width="600"/> 
 </p>
+
+# Share your code with Visual Studio 2017 and Team Services Git
+
+## Create local Git repo.
+
+
+
 
 ## Create new Git repo.
 
