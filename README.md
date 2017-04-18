@@ -35,13 +35,13 @@ Tools > Extensions and Updates > (search for "Continuous Delivery Tools for Visu
 
 ## Share your code with Visual Studio 2017 and Team Services Git
 
-- Create repo from an empty folder.
+- Create repo from new project.
 - Create repo from existing code on your computer.
 - Clone an existing repo.
 
 ### Create local Git repo.
 
-Create a local Git repo for your project from an empty folder or a folder containing existing code on your computer.
+#### Create a local Git repo for your project from a folder containing existing code on your computer.
 
 Create a new local Git repo for your project by selecting <img src="/MD_Images/addsrccontrol.png" width="150"/> on the status bar in the lower right hand corner of Visual Studio. This will create a new repo in the folder the solution is in and commit your code into that repo.
 
@@ -62,7 +62,9 @@ Once you have a local repo, select items in the status bar to quickly navigate b
 - <img src="/MD_Images/branch_picker.png"/> shows your current Git branch. Selecting this displays a branch picker to quickly switch between Git branches or create new branches.
 </p>  
 
-### Create new Git repo.
+#### Create a local Git repo for your project from an empty folder starting a new project.
+
+## Create new Git repo.
 
 ### Setup TFS
 
