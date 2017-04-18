@@ -43,6 +43,9 @@ Create a new local Git repo for your project by selecting <img src="/MD_Images/a
 
 Once you have a local repo, select items in the status bar to quickly navigate between Git tasks in Team Explorer.
 
+<p align="center">
+  <img src="/MD_Images/vsstatusbar.png" width="600"/> 
+</p>
 
 ### Create new Git repo.
 
