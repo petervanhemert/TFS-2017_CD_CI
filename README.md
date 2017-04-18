@@ -48,9 +48,13 @@ Once you have a local repo, select items in the status bar to quickly navigate b
 </p>
 
 
+<p align="center">
     <img src="/MD_Images/unpublished_changes.png" width="150"/> shows the number of unpublished commits in your local branch. Selecting this will open the Sync view in Team Explorer.
+  </p>  
     <img src="/MD_Images/pending_changes.png" width="150"/> shows the number of uncommitted file changes. Selecting this will open the Changes view in Team Explorer.
+    
     <img src="/MD_Images/current_repo.png" width="150"/> shows the current Git repo. Selecting this will open the Connect view in Team Explorer.
+    
     <img src="/MD_Images/branch_picker.png" width="150"/> shows your current Git branch. Selecting this displays a branch picker to quickly switch between Git branches or create new branches.
 
 
