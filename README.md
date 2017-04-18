@@ -27,7 +27,7 @@ Add extension.
 Tools > Extensions and Updates > (search for "Continuous Delivery Tools for Visual Studio")
 
 <p align="center">
-  <img src="/MD_Images/Capture%201.PNG" width="600"/>
+  <img src="/MD_Images/TFS%20VS2017%20Capture%201.PNG" width="600"/> 
 </p>
 
 ## Setup TFS
