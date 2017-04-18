@@ -46,9 +46,8 @@ Once you have a local repo, select items in the status bar to quickly navigate b
 <p align="center">
   <img src="/MD_Images/vsstatusbar.png" width="600"/> 
 </p>
-
-
 <p>
+
 - <img src="/MD_Images/unpublished_changes.png"> shows the number of unpublished commits in your local branch. Selecting this will open the Sync view in Team Explorer.
 
   
