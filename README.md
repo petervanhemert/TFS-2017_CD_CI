@@ -18,10 +18,14 @@
 
    ### General.
    
-      #### Create an Account.
+      Create an Account.
+<img src="/MD_Images/vsstatusbar.png" width="600"/> 
 
 
-      #### Create a Project.
+
+
+
+      Create a Project.
 
 
    ### With local Git repository.
