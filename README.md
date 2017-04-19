@@ -21,12 +21,8 @@
       Create an Account.
 <img src="/MD_Images/VSTS2017/CreateNewAccount.PNG" width="600"/> 
 
-
-
-
-
       Create a Project.
-
+<img src="/MD_Images/VSTS2017/CreateNewProject.PNG" width="600"/> 
 
    ### With local Git repository.
 
