@@ -7,6 +7,9 @@ TFS straat
 - Share your existing code with Visual Studio 2017 and Team Services Git.
 - Add VS2017 solution "Add to source control" to GIT project in VSTS 2017(select project in Advanced).
 
+- Git VSTS 2017
+- Git Github
+- Git Remote repo
 
 
 
