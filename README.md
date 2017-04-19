@@ -1,6 +1,9 @@
 # Continuous Integration & Continuous Delivery with VSTS 2017
 
 - Setup Visual Studio Team Services 2017.
+   - General.
+      - Create Account
+      - Create Project.
    - With TFSC.
    - With local Git repository.
    - With external Git repository.
