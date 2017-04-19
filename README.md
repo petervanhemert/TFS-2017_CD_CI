@@ -1,3 +1,30 @@
+# Continuous Integration & Continuous Delivery with VSTS 2017
+
+- Setup Visual Studio Team Services 2017.
+   - With TFSC.
+   - With local Git repository.
+   - With external Git repository.
+   
+- Setup Visual studio 2017.
+   - Add extensions.
+   - Project Add to source control
+
+- Setup Azure as Publish environment.
+
+## Setup VSTS 2017.
+
+   ### With local Git repository.
+
+   ### With external repository.
+
+
+## Setup Visual studio 2017.
+
+
+## Setup Azure.
+
+
+
 # TFS-2017_CD_CI
 TFS straat
 ## Create the Azure app service.
