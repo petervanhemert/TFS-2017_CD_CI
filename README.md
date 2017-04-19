@@ -1,5 +1,9 @@
 # TFS-2017_CD_CI
 TFS straat
+## Create the Azure app service.
+
+- 
+
 ## Setup Visual Studio Team Services 2017(VSTS)
 - Create VSTS account selecting Git to manage code.
 - Create VSTS 2017 project selecting Git.
