@@ -16,6 +16,14 @@
 
 ## Setup VSTS 2017.
 
+   ### General.
+   
+      #### Create an Account.
+
+
+      #### Create a Project.
+
+
    ### With local Git repository.
 
    ### With external repository.
