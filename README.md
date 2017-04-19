@@ -1,15 +1,23 @@
 # TFS-2017_CD_CI
 TFS straat
-
+## Setup Visual Studio Team Services 2017(VSTS)
 - Create VSTS account selecting Git to manage code.
 - Create VSTS 2017 project selecting Git.
+   - initialize with a README or gitignore.
+   - build code from an external repository.
+   
+### Initialize with a README or gitignore.
+- Set up Build
+
+### Build code from an external repository.
+- Set up Build
+
+## Setup Visual Studio 2017.
 - Setup VS 2017(add extension).
 - Share your existing code with Visual Studio 2017 and Team Services Git.
 - Add VS2017 solution "Add to source control" to GIT project in VSTS 2017(select project in Advanced).
 
-   - Git VSTS 2017
-   - Git Github
-   - Git Remote repo
+
 
 
 
