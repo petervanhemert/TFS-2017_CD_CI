@@ -6,11 +6,17 @@ TFS straat
    - initialize with a README or gitignore.
    - build code from an external repository.
    
-### Initialize with a README or gitignore.
+#### Initialize with a README or gitignore.
 - Set up Build
 
-### Build code from an external repository.
+#### Build code from an external repository.
 - Set up Build
+
+### Set up Build.
+- Visual Studio
+- ASP.NET
+- ASP.NET Core
+
 
 ## Setup Visual Studio 2017.
 - Setup VS 2017(add extension).
