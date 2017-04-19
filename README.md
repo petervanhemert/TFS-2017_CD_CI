@@ -19,7 +19,7 @@
    ### General.
    
       Create an Account.
-<img src="/MD_Images/vsstatusbar.png" width="600"/> 
+<img src="/MD_Images/VSTS2017/CreateNewAccount.PNG" width="600"/> 
 
 
 
