@@ -24,6 +24,18 @@
       Create a Project.
 <img src="/MD_Images/VSTS2017/CreateNewProject.PNG" width="600"/> 
 
+<img src="/MD_Images/VSTS2017/AfterCreated.PNG" width="600"/> 
+
+<img src="/MD_Images/VSTS2017/AfterCreated2.PNG" width="600"/> 
+
+<img src="/MD_Images/VSTS2017/AfterCreated3.PNG.PNG" width="600"/> 
+
+
+
+
+
+
+
    ### With local Git repository.
 
    ### With external repository.
