@@ -1,8 +1,17 @@
 # TFS-2017_CD_CI
 TFS straat
 ## Create the Azure app service.
+- Create App Service Plan
+- Create Web App
+- Link App Service Plan to VSTS.
+- Create development stack 
 
-- 
+#### Create Web App.
+
+#### Link Team Service account to Azure subscription.
+
+#### Create development stack from Azure portal. 
+
 
 ## Setup Visual Studio Team Services 2017(VSTS)
 - Create VSTS account selecting Git to manage code.
