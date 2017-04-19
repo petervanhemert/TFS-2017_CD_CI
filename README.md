@@ -4,6 +4,7 @@ TFS straat
 - Create App Service Plan
 - Create Web App
 - Link App Service Plan to VSTS.
+- Finish...............GoTo Setup Visual Studio Team Services 2017(VSTS)
 - Create development stack 
 
 #### Create Web App.
