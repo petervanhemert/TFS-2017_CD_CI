@@ -27,7 +27,7 @@ Create a new local Git repo for your project, after you opend or created your pr
 Once you have a local repo, select items in the status bar to quickly navigate between Git tasks in Team Explorer.
 
 <p align="center">
-  <img src="/MD_Images/VSaddToSourceControl1.PNG" width="600"/> 
+  <img src="/MD_Images/VS2017/VSaddToSourceControl1.PNG" width="600"/> 
 </p>
 <p>
 
