@@ -46,7 +46,9 @@ In the Push view in Team Explorer, select the Publish Git Repo button under Push
 
 Verify your email and select your account in the Team Services Domain drop down.
 
-Enter your repository name and select Publish Repository. 
+Click Advanced next to Repository name and select a team project.
+
+Select Publish Repository to finish. 
 
 <p align="center">
   <img src="/MD_Images/VS2017/Demo2_3.PNG" width="600"/> 
@@ -55,7 +57,6 @@ Enter your repository name and select Publish Repository.
   <img src="/MD_Images/VS2017/selectAdvanced.PNG" width="600"/> 
 </p>
 
-This creates a new Team Project in your account with the same name as the repository. To create the repo in an existing Team Project, click Advanced next to Repository name and select a team project.
 
 <p align="center">
   <img src="/MD_Images/Demo2_4.PNG" width="600"/> 
