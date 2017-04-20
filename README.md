@@ -1,4 +1,4 @@
-# Continuous Integration & Continuous Delivery with VSTS 2017
+# Continuous Integration & Continuous Delivery with Visual Studio TeamS ervices 2017, Visual Studio & Azure. 
 
 - Setup Visual Studio Team Services 2017.
    - General.
