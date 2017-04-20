@@ -32,7 +32,7 @@ Once you have a local repo, select items in the status bar to quickly navigate b
   
 - <img src="/MD_Images/pending_changes.png"/> shows the number of uncommitted file changes. Selecting this will open the Changes view in Team Explorer.
     
-- <img src="/MD_Images/git_repo.png"/> shows the current Git repo. Selecting this will open the Connect view in Team Explorer.
+- <img src="/MD_Images/VS2017/git_repo.png"/> shows the current Git repo. Selecting this will open the Connect view in Team Explorer.
     
-- <img src="/MD_Images/VS2017/branch_picker.PNG"/> shows your current Git branch. Selecting this displays a branch picker to quickly switch between Git branches or create new branches.
+- <img src="/MD_Images/branch_picker.PNG"/> shows your current Git branch. Selecting this displays a branch picker to quickly switch between Git branches or create new branches.
 </p>  
