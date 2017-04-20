@@ -19,7 +19,9 @@
    ### General.
    
       Create an Account.
-<img src="/MD_Images/VSTS2017/CreateNewAccount.PNG" width="600"/> 
+<img src="/MD_Images/VSTS2017/CreateAccountVSTS.PNG" width="600"/> 
+
+<img src="/MD_Images/VSTS2017/CreatingAccount.PNG" width="600"/> 
 
       Create a Project.
 <img src="/MD_Images/VSTS2017/CreateNewProject.PNG" width="600"/> 
