@@ -144,26 +144,6 @@ TFS straat
 
 ### Create local Git repo.
 
-#### Create a local Git repo for your project from a folder containing existing code on your computer.
-
-Create a new local Git repo for your project, after you opend or created your project, by selecting <img src="/MD_Images/addsrccontrol.png" width="150"/> on the status bar in the lower right hand corner of Visual Studio. This will create a new repo in the folder the solution is in and commit your code into that repo.
-
-Once you have a local repo, select items in the status bar to quickly navigate between Git tasks in Team Explorer.
-
-<p align="center">
-  <img src="/MD_Images/vsstatusbar.png" width="600"/> 
-</p>
-<p>
-
-- <img src="/MD_Images/unpublished_changes.png"> shows the number of unpublished commits in your local branch. Selecting this will open the Sync view in Team Explorer.
-
-  
-- <img src="/MD_Images/pending_changes.png"/> shows the number of uncommitted file changes. Selecting this will open the Changes view in Team Explorer.
-    
-- <img src="/MD_Images/current_repo.png"/> shows the current Git repo. Selecting this will open the Connect view in Team Explorer.
-    
-- <img src="/MD_Images/branch_picker.png"/> shows your current Git branch. Selecting this displays a branch picker to quickly switch between Git branches or create new branches.
-</p>  
 
 #### Create a local Git repo for your project from an empty folder starting a new project.
 
